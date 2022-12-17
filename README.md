@@ -3,5 +3,6 @@
 - :books: I'm finishing a bachelor's degree in computer engineering at the [University of Lleida](https://grauinformatica.udl.cat/en/).
 - 📅 After finishing the bachelor's degree, I want to study the Data science master's degree at [Universitat oberta de Catalunya](https://www.uoc.edu/portal/en/index.html)
 - 🧠 My specialization inside computing's world is artificial intelligence and mathematics.
-- :office: I'm currently doing my internship at [Group Saltó](https://groupsalto.com/en/).
+- :beginner: I did my internship at [Group Saltó](https://groupsalto.com/en/).
+- :office: I'm currently working at [Group Saltó](https://groupsalto.com/en/).
 - 🌐 You can find me in [LinkedIn](https://www.linkedin.com/in/marc-cervera-rosell-210b47235) 
