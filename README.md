@@ -1,7 +1,7 @@
 - 🌈 Hi, I’m Marc.
 - :round_pushpin: I'm from Lleida, Catalonia, Spain.
 - :books: I'm finishing a bachelor's degree in computer engineering at the [University of Lleida](https://grauinformatica.udl.cat/en/).
-- 📅 After finishing the bachelor's degree, I want to study the Artificial intelligence master's degree at [International University of Applied Sciences](https://www.iu.org/)
+- 📅 After finishing the bachelor's degree, I want to study the Artificial intelligence master's degree at [International University of Applied Sciences](https://www.iu.org/). [Master's degree link](https://www.iu.org/master/artificial-intelligence/)
 - 🧠 My specialization inside computing's world is artificial intelligence and mathematics.
 - :beginner: I did my bachelor's internship at [Group Saltó](https://groupsalto.com/en/).
 - :office: I'm currently working at [Group Saltó](https://groupsalto.com/en/).
