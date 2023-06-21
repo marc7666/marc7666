@@ -4,5 +4,5 @@
 - 📅 After finishing the bachelor's degree, I want to study the Artificial intelligence master's degree at [Charles University](https://cuni.cz/UKEN-1.html) in Praga. [Master's degree link](https://www.mff.cuni.cz/en/students/master-of-computer-science/2020-or-later/artificial-intelligence)
 - 🧠 My specialization inside computing's world is artificial intelligence and mathematics.
 - :beginner: I did my bachelor's internship at [Group Saltó](https://groupsalto.com/en/).
-- :office: I'm currently working at [Group Saltó](https://groupsalto.com/en/).
+- :office: I'm currently working at N/A.
 - 🌐 You can find me in [LinkedIn](https://www.linkedin.com/in/marc-cervera-rosell-210b47235) 
