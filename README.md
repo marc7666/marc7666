@@ -6,4 +6,13 @@
 - 🧠 My specialization inside computing's world is artificial intelligence and mathematics.
 - :beginner: I did my bachelor's internship at [Group Saltó](https://groupsalto.com/en/).
 - :office: I'm currently working at [GFT Technologies](https://www.gft.com/int/en/).
-- 🌐 You can find me in [LinkedIn](https://www.linkedin.com/in/marc-cervera-rosell/) 
+- 🌐 You can find me in [LinkedIn](https://www.linkedin.com/in/marc-cervera-rosell/)
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marc7666&layout=compact&theme=merko&langs_count=6" />
+  <br><br>
+  <img src="https://streak-stats.demolab.com/?user=marc7666&theme=merko" alt="GitHub Streak Stats" />
+</div>
+
+
+
