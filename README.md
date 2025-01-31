@@ -10,7 +10,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marc7666&layout=compact&theme=merko&langs_count=6" />
   <br><br>
-  <img src="https://streak-stats.demolab.com/?user=marc7666&theme=merko" alt="GitHub Streak Stats" />
 </div>
 
 
