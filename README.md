@@ -12,5 +12,8 @@
   <br><br>
 </div>
 
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=marc7666&show_icons=true&theme=merko" />
+  <br><br>
+</div>
 
